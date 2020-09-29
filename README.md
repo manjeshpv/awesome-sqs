@@ -1,0 +1,2 @@
+# awesome-sqs
+SQS Resources
